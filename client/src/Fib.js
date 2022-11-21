@@ -71,4 +71,4 @@ class Fib extends React.Component {
     )};
 }
 
-export default Fib;;
+export default Fib;
